@@ -1,0 +1,17 @@
+{
+  "name": "genpark-aries-wal-crash-recovery-engine-skill",
+  "version": "1.0.0",
+  "description": "Algorithms for Recovery and Isolation Exploiting Semantics (ARIES) engine supporting Physiological Logging, Analysis pass, Redo pass, and Undo pass.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "aries-recovery",
+    "wal",
+    "crash-recovery",
+    "database-internals",
+    "transaction-recovery"
+  ],
+  "dependencies": []
+}
